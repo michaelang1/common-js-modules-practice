@@ -6,7 +6,7 @@ const {
 	message1: msg1,
 	message2: msg2,
 	message3: msg3,
-} = require('./messages/index');
+} = require('./messages');
 /****************************************************************************/
 /******************* DO NOT EDIT CODE BELOW THIS LINE ***********************/
 
